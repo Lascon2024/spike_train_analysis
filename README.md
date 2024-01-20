@@ -7,5 +7,7 @@ Materials for Spike Train Analysis tutorials
   - > pip install elephant
   - > pip install viziphant
   - > python -m ipykernel install --user --name lascon2024_spike_train_analysis
-  - If jupyter-lab is not installed: > conda install jupyterlab
-  - If jupyter-lab raises ImportError: > conda install chardet
+  - If jupyter-lab is not installed:
+    - > conda install jupyterlab
+  - If jupyter-lab raises ImportError:
+    - > conda install chardet
