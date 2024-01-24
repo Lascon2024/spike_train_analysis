@@ -11,3 +11,6 @@ Materials for Spike Train Analysis tutorials
     - > conda install jupyterlab
   - If jupyter-lab raises ImportError:
     - > conda install chardet
+
+## Running the notebooks
+  - Make sure that the kernel "lascon2024_spike_train_analysis" is used to run the notebook.
